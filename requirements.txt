@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+langchain
+langchain_community
+langgraph
+sentence-transformers
+langchain-openai
+chroma
+chromadb
+langchain-huggingface
+openai
